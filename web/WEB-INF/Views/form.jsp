@@ -7,7 +7,7 @@
     </head>
     <body>
         <form method="post" action="Calculer">
-             <input type="number" name="nombre">
+           Entré le jour  <input type="number" name="nombre">
             <input type="Submit" value="Envoyer">
         </form>
     </body>

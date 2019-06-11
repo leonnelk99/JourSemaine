@@ -16,9 +16,9 @@
        String valeur = (String)request.getAttribute("valeur");
         //out.println (valeur);
         %>
-          <h1> le numeros entre correspond a = <%= valeur%> </h1>
+          <h1> le numeros  = <%= valeur%> </h1>
     
-            <a href="http://localhost:8080/JourSemaine/Calculer?"> back to home </a>
+            <a href="http://localhost:8080/JourSemaine/Calculer?"> back </a>
        
      
     </body>
